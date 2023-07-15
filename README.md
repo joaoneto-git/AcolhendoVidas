@@ -1,4 +1,4 @@
-# MorrendoDeFrio
+# AcolhendoVidas
 
 Este é um projeto destinado a ajudar moradores de rua que passam por situações de frio extremo.
 
